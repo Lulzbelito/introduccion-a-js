@@ -127,7 +127,7 @@
 //       Utilizá console.log para ver lo que obtuviste!
 
 
-cont = nuestroTitulo = document.querySelector('h1')
+const nuestroTitulo = document.querySelector('h1')
 console.log(nuestroTitulo)
 
 //podemos leer texto
